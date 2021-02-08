@@ -1,0 +1,44 @@
+*{
+
+
+    margin: 0;
+    padding: 0;
+    background-color: darkgray;
+   background-image: url("photo.3.jpg");
+   background-position: left;
+   background-size: cover;
+   background-repeat: no-repeat;
+   backface-visibility: visible;
+}
+
+
+h1{
+
+    font-size: 40px;
+    background-color:black;
+    bottom: 100%;
+    left: 40%;
+   
+
+   background-position: bottom;
+    
+}
+p{
+
+
+    background-position: bottom;
+    bottom: 100%;
+    font-style: italic;
+    font-size: xx-large;
+    left: 60%;
+    color: darkblue;
+    background-size: cover;
+    text-align: left;
+    text-decoration: darkslategray;
+}
+box{
+
+    box-sizing: border-box;
+    font-size: x-small;
+
+}
